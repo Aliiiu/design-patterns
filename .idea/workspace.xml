@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="330dc6a3-dd8e-49cc-b863-dc37007b9c20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/MacWidgetFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/TestAbstractFactoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/TextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/WidgetFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/WindowsWidgetFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Margherita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/PizzaDecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/AnimalFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/ObserverPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/ObserverPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/StrategyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/StrategyTester.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PmuYg8v1oV3mxD36EWEycoMHCT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "/Users/user/Documents/GitHub/DesignPatterns-Java/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="330dc6a3-dd8e-49cc-b863-dc37007b9c20" name="Changes" comment="" />
+      <created>1684074630355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684074630355</updated>
+    </task>
+    <servers />
+  </component>
+</project>
